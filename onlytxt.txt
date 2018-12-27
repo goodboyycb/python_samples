@@ -13,3 +13,4 @@ can not find the changes when edited in git hub?
 from github to local
 from local to github
 can you find changes on github?
+edit in think pad
