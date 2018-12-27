@@ -14,4 +14,4 @@ from github to local
 from local to github
 can you find changes on github?
 edit in lenovo1
-edit in lenovo2
+edit in lenovo2 to github
