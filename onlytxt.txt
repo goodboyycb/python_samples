@@ -13,5 +13,10 @@ can not find the changes when edited in git hub?
 from github to local
 from local to github
 can you find changes on github?
+<<<<<<< HEAD
 edit in lenovo1
 edit in lenovo2 to github
+=======
+edit in think pad
+>>>>>>> 01f99cfd14ef3dd958e4d08d40f08c4466354452
+edit in lenovo3
